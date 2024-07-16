@@ -1,0 +1,1 @@
+<h1 class="bg-secondary text-center">FT ADMIN</h1>

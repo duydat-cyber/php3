@@ -1,0 +1,1 @@
+<h1>Footer client</h1>
